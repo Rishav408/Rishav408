@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2F6DB5&center=true&vCenter=true&width=620&lines=RAG+%7C+Agentic+AI+%7C+Vision-Language+Pipelines;Local-first+LLM+apps+that+keep+data+private;Final-year+B.Tech+(AI+%26+DS)+%40+MIT-WPU%2C+Pune)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rishavsingh4805.web.app-2F6DB5?style=flat-square&logo=firebase&logoColor=white)](https://rishavsingh408.in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rishavsingh408.in-2F6DB5?style=flat-square&logo=firebase&logoColor=white)](https://rishavsingh408.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishav408)
 [![Email](https://img.shields.io/badge/Email-rishav4805@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rishav4805@gmail.com)
 
